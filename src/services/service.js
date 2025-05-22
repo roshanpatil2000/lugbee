@@ -105,7 +105,7 @@ export const promotionBannersUrl = settingBaseUri + '/promotion?value=true'
 export const versionUri = settingBaseUri + "/appVersion";
 
 //Web URL
-export const insurancePolicyWebURL = "https://lugbee.com/lugbee_insurance";
+export const insurancePolicyWebURL = "https://web.lugbee.com/lugbee_insurance";
 export const termsConditionsWebURL = "https://lugbee.com/terms-services";
 export const privacyPolicyWebURL = "https://lugbee.com/privacy";
 export const FAQWebURL = "https://lugbee.com/faq/";
